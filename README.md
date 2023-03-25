@@ -1,6 +1,6 @@
 # Login Template
 
-This is a simple login template built using HTML, CSS, and Tailwind CSS for a modern and attractive UI.
+This is a simple login template built using HTML, CSS, and JS for a modern and attractive UI.
 
 ## Usage
 
